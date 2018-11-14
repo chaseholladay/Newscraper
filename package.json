@@ -23,14 +23,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jntolman/news-scrape.git"
+    "url": "git+https://github.com/chaseholladay/Newscraper.git"
   },
   "author": "jarrett tolman",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jntolman/news-scrape/issues"
+    "url": "https://github.com/chaseholladay/Newscraper/issues"
   },
-  "homepage": "https://github.com/jntolman/news-scrape#readme",
+  "homepage": "https://github.com/chaseholladay/Newscraper#readme",
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.17.1",
