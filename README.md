@@ -1,4 +1,4 @@
-# newscraper
+# Newscraper
 
 
 # How It Works
